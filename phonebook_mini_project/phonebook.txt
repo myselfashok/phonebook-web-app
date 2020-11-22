@@ -1,0 +1,33 @@
+
+
+
+Persistent Layer/DAO /repo
+====================
+
+
+Business layer/Service
+======================
+
+
+Model Layer/Entity
+======================
+
+
+
+Controller/Web
+=======================
+
+
+Presentation layer
+========================
+
+
+
+
+
+database for phonebook use oracle db
+====================================
+from sysdba
+=============
+user= PHONEBOOK_LOCAL
+pass= phonebook
